@@ -1,5 +1,16 @@
 # Getting Started with Create React App
 
+# This is a basic CRUD application in which you can post memes by providing your name,
+# caption and url of meme.
+
+# Memes can be edited later for changing image url or caption or both.
+# Backend has some endpoints like '/memes' for data, '/memes/<id>' for going to particular meme(if it exists).
+
+# Built using React for frontend, express for for backend, lowdb for database.
+# Forntend is deployed on netlify, and backend on heroku.
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
