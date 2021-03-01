@@ -1,6 +1,5 @@
 
-# This is a Full stack CRUD application in which you can post memes by providing your name,
-# caption and url of meme.
+# This is a Full stack CRUD application in which you can post memes by providing your name, caption and url of meme.
 
 # Memes can be edited later for changing image url or caption or both.
 # Backend has some endpoints like '/memes' for data, '/memes/id' for going to particular meme(if it exists).
