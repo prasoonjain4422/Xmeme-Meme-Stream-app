@@ -4,7 +4,7 @@
 # Memes can be edited later for changing image url or caption or both.
 # Backend has some endpoints like '/memes' for data, '/memes/id' for going to particular meme(if it exists).
 
-# Built using React for frontend, express for for backend, lowdb for database.
+# Built using React for frontend, express for backend, lowdb(npm) for database.
 # Forntend is deployed on netlify, and backend on heroku.
 # -------------------------------------------------------------------------------
 
