@@ -1,4 +1,3 @@
-# Getting Started with Create React App
 
 # This is a Full stack CRUD application in which you can post memes by providing your name,
 # caption and url of meme.
@@ -8,8 +7,10 @@
 
 # Built using React for frontend, express for for backend, lowdb for database.
 # Forntend is deployed on netlify, and backend on heroku.
+# -------------------------------------------------------------------------------
 
 
+# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
